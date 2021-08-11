@@ -45,5 +45,4 @@ BNB(BSC Altergogi) : 0xEde11088F435e293574Fe87aC254004F0c7a41Aa
 
 Tulis di issue kalau ada masalah
 
-![image](https://user-images.githubusercontent.com/56806850/129020748-45d9d41c-b17e-4074-a9af-9fc9d7fe5ccf.png)
 
